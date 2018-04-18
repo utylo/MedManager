@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479247541463",
+    "firebase_url": "https://medmanager-f4b5d.firebaseio.com",
+    "project_id": "medmanager-f4b5d",
+    "storage_bucket": "medmanager-f4b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479247541463:android:d8f10c8a78ffd161",
+        "android_client_info": {
+          "package_name": "com.example.utylo.medmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479247541463-967eangks7h99j9p0rghtbhbvg25n2mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMFoSrTUatR9yAPao31Cz4TSLrOI2iTw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
